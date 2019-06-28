@@ -1,0 +1,7 @@
+name: Apple_Friend
+version: 0.0.1
+main: Ayrou.Apple_Friend.AppleFriend
+api-version: 1.13
+authors: [Cyanide]
+depend: [PlaceholderAPI]
+description: 艾魯團隊好友插件
