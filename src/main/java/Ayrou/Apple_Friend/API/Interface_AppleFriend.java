@@ -5,7 +5,7 @@ import org.jetbrains.annotations.NotNull;
 import java.util.ArrayList;
 import java.util.UUID;
 
-public interface Interface_Friend {
+public interface Interface_AppleFriend {
 
     /**
      * 判斷 player 與 target 是否為好友
